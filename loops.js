@@ -9,3 +9,4 @@ function forLoop(array){
   }
   return arr
 }
+forLoop()
