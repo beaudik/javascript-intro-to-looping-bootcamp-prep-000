@@ -30,4 +30,4 @@ function doWhileLoop(integer){
     console.log("I run once regardless.");
   }
   while (incrementVariable() <= integer)
-} 
+}
